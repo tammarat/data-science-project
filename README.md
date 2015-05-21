@@ -14,4 +14,4 @@ The python framework has been used to analyse the dataset. below are the depende
 - scipy (http://www.scipy.org)
 - matplotlib (http://matplotlib.org)
 
-you can get all of these at once by using Anaconda (http://continuum.io/downloads) (It contains all framework needed for this project)
+you can get all of these at once by using Anaconda (http://continuum.io/downloads) (It contains all framework needed to run codeFile.py)
